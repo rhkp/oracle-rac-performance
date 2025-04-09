@@ -201,7 +201,7 @@ librarycheck
 # Run HammerDB test with hammerdbcli
 Invoke the hammerdb cli in a terminal with Oracle database environment variables set as described earlier.
 ```bash
-hammerdbcli
+./hammerdbcli
 ```
 
 Execute following lines with substituted values based on your environment
